@@ -1,0 +1,3 @@
+<a href="path_to_your_file.pdf" download>
+  <button>Download PDF</button>
+</a>
